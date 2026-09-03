@@ -1,0 +1,17 @@
+{
+    "name": "Udonite",
+    "id": "com.udonite.listing",
+    "url": "https://udonite.github.io/vpm/index.json",
+    "author": {
+        "name": "Udonite",
+        "url": "https://github.com/Udonite"
+    },
+    "description": "Udonite and other packages for VRChat worlds.",
+    "infoLink": {
+        "url": "https://github.com/Udonite/Udonite",
+        "text": "Udonite: docs, issues and support"
+    },
+    "githubRepos": [
+        "Udonite/Udonite"
+    ]
+}
