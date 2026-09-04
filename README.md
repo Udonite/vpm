@@ -2,7 +2,7 @@
 
 The VRChat Creator Companion listing for [Udonite](https://github.com/Udonite/Udonite) and future packages.
 
-Documentation: **[udonite.dajno.com](https://udonite.dajno.com)**
+Documentation: **[docs.udonite.com](https://docs.udonite.com)**
 
 ## Add to the Creator Companion
 
